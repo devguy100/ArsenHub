@@ -15,29 +15,27 @@ Welcome to the **Arsenal Aimbot Script** – a powerful and lightweight tool des
 
 ## 📥 **Installation Instructions**
 
-1. **Install a Script Executor**  
-   Make sure you have a Roblox script executor installed on your device. If you don't already have one, choose one that fits your needs.
+### 1. Install a Script Executor  
+Make sure you have a Roblox script executor installed on your device. If you don't already have one, choose one that fits your needs.
 
-2. **Copy the Script**  
-   Below is the code to implement the script. Simply click the button to copy it to your clipboard:
+### 2. Copy the Script  
+Below is the code to implement the script. Simply copy the code inside the code block:
 
-   <pre>
-   <button onclick="navigator.clipboard.writeText('loadstring(game:HttpGet(\"https://raw.githubusercontent.com/devguy100/ArsenHub/refs/heads/main/arsenhub.txt\"))()')">Copy Script</button>
-   </pre>
+<pre>
+loadstring(game:HttpGet("https://raw.githubusercontent.com/devguy100/ArsenHub/refs/heads/main/arsenhub.txt"))()
+</pre>
 
-   **Note**: The script will automatically copy to your clipboard when you press the button.
+### 3. Execute the Script  
+Paste the copied code into your executor’s script editor and run it.
 
-3. **Execute the Script**  
-   Paste the copied code into your executor’s script editor and run it.
-
-4. **Enjoy the Aimbot!**  
-   Once the script is executed, the aimbot will activate, and you'll be able to experience smoother and more accurate gameplay in Arsenal.
+### 4. Enjoy the Aimbot!  
+Once the script is executed, the aimbot will activate, and you'll be able to experience smoother and more accurate gameplay in Arsenal.
 
 ---
 
 ## 🛠️ **How It Works**
 
-The Arsenal Aimbot Script continuously detects and targets nearby enemies, automatically adjusting your aim to improve shooting accuracy. The script uses Roblox's built-in scripting capabilities to provide this functionality with minimal impact on game performance. 
+The Arsenal Aimbot Script continuously detects and targets nearby enemies, automatically adjusting your aim to improve shooting accuracy. The script uses Roblox's built-in scripting capabilities to provide this functionality with minimal impact on game performance.
 
 ---
 
